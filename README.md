@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Shunya's github stats](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)](https://github.com/ShunyaWatanabe/github-readme-stats)
+[![Shunya's github stats](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)
 
 <!--
 **ShunyaWatanabe/ShunyaWatanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
