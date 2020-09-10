@@ -2,7 +2,7 @@
 
 [![Shunya's github stats](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)
 
-[![Someone else's github stats](https://github-readme-stats.vercel.app/api?username=bradtraversy)](https://github-readme-stats.vercel.app/api?username=bradtraversy)
+[![Someone else's github stats](https://github-readme-stats.vercel.app/api?username=ishasaran)](https://github-readme-stats.vercel.app/api?username=ishasaran)
 
 <!--
 **ShunyaWatanabe/ShunyaWatanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
