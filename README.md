@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here is a link to my LinkedIn -> https://www.linkedin.com/in/shunya-watanabe-aba1a5151/
+
 [![Shunya's github stats](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)](https://github-readme-stats.vercel.app/api?username=ShunyaWatanabe)
 
 <!--
